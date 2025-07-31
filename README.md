@@ -57,6 +57,11 @@ python train_and_predict.py
 streamlit run app.py
 ```
 
+### 🔗 Live Demo
+
+You can try the deployed Loan Eligibility Predictor app here:  
+👉 [Click to open the app] (https://parth-kolekar-loan-eligibility.streamlit.app/)
+
 ## 🧾 Features
 - Cleaned and preprocessed loan data
 - Trained ML model (Logistic Regression / Random Forest)
